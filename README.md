@@ -31,7 +31,7 @@
 </table>
 
 
-<h3 align="left"> 📚 Publications & Research</h3>
+<h2 align="left"> 📚 Publications & Research</h2>
 <table width="100%">
     <tr>
         <td align="left" valign="top" width="600">
@@ -69,6 +69,33 @@
 
 
 
+
+
+<h2 align="left"> 🧩 Personal Projects</h2>
+<table width="100%">
+    <tr>
+        <td align="left" valign="top" width="600">
+            <div>&nbsp;</div>
+            <a href="https://github.com/shamadrian/Token-Bound-Account-Project"><b>Token Bound Account Smart Wallet</b></a><br/><br/>
+            <span style="font-size: 13px;">Designed and implemented a smart wallet architecture that unifies the ERC‑6551 (Token Bound Accounts) and ERC‑4337 (Account Abstraction) standards into a single, extensible implementation contract.</span>
+            <div>&nbsp;</div>
+        </td>
+        <td align="left" valign="top" width="600">
+            <div>&nbsp;</div>
+            <a href="https://github.com/shamadrian/Damn-Vulnerable-Defi-Solution"><b>Damn Vulnerable Defi Solutions</b></a><br/><br/>
+            <span style="font-size: 13px;">Completed all 18 Damn Vulnerable DeFi v4 challenges and authored comprehensive solution guides for each, including post-mortem analyses and mitigation strategies.</span>        <div>&nbsp;</div>
+        </td>
+    </tr>
+    <tr>
+        <td align="left" valign="top" colspan="2">
+            <div>&nbsp;</div>
+            <b>Other projects</b><br/>
+            <span style="font-size: 13px;">State Channel for Casino Web App that uses ERC2771 for signature and verification @XSG</span> <br/>
+            <span style="font-size: 13px;">ERC20 token implementation with vault lock and governing functions @ AiPha</span>
+            <div>&nbsp;</div>
+        </td>
+    </tr>
+</table>
 
 
 ### 📫 Contact
