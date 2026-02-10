@@ -96,6 +96,39 @@
         </td>
     </tr>
 </table>
+<h2 align="left"> 🧰 Skills</h2>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="400">
+      <b>Smart Contracts</b><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="28" />
+      &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" />
+      &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hardhat/hardhat-original.svg" height="28" />
+      <br/><br/><code>Solidity</code> · <code>Foundry</code> · <code>Hardhat</code><br/><br/>
+    </td>
+    <td align="center" width="400">
+      <b>Frontend</b><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" />
+      &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" />
+      <br/><br/><code>HTML / CSS / JS</code> · <code>React</code> · <code>Next</code><br/><br/>
+    </td>
+    <td align="center" width="400">
+      <b>Version Control</b><br/><br/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" />
+      &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28" />
+      &nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="28" />
+      <br/><br/><code>Git</code> · <code>GitHub</code> · <code>GitLab</code><br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" colspan="3">
+        <div>&nbsp;</div>
+        <b>EIPs</b><br/>
+        <code>ERC20</code> <code>ERC712</code> <code>ERC1155</code> <code>EIP1271</code> <code>EIP2771</code> <code>ERC4337</code> <code>ERC6551</code> <br/><code>AND OTHERS</code>
+        <div>&nbsp;</div>
+    </td>
+</tr>
+</table>
 
 
 ### 📫 Contact
