@@ -6,17 +6,17 @@
 
 <table width="100%">
     <tr>
-        <td align="center" valign="top" width="33%" style="padding:20px 16px;">
+        <td align="center" valign="top" width="400" style="padding:20px 16px;">
             <b>🔍 Research</b><br/><br/>
             <span style="font-size: 13px;">Researcher @ ABClab</span><br>
             <span style="font-size: 13px;">Teaching Assistant @ NTU</span>
         </td>
-        <td align="center" valign="top" width="33%" style="padding:20px 16px;">
+        <td align="center" valign="top" width="400" style="padding:20px 16px;">
             <b>🛠️ Develop</b><br/><br/>
             <span style="font-size: 13px;">Smart Contract Developer @ XSG</span><br/>
             <span style="font-size: 13px;">Blockchain Developer Trainee @ Appworks</span>
         </td>
-        <td align="center" valign="top" width="33%" style="padding:20px 16px;">
+        <td align="center" valign="top" width="400" style="padding:20px 16px;">
             <b>🛡️ Audit</b><br/><br/>
             <span style="font-size: 13px;">Solo Warden @ Code4rena</span><br/>
             <span style="font-size: 12px;">Web3 Security Trainee @ Appworks</span>
@@ -28,12 +28,12 @@
 <h3 align="left"> 📚 Publications & Research</h3>
 <table width="100%">
     <tr>
-        <td align="left" valign="top" width="33%" style="padding:20px 16px;">
+        <td align="left" valign="top" width="600" style="padding:20px 16px;">
             <b>🔍 Research</b><br/><br/>
             <span style="font-size: 13px;">Researcher @ ABClab</span><br>
             <span style="font-size: 13px;">Teaching Assistant @ NTU</span>
         </td>
-        <td align="left" valign="top" width="33%" style="padding:20px 16px;">
+        <td align="left" valign="top" width="600" style="padding:20px 16px;">
             <b>🛠️ Develop</b><br/><br/>
             <span style="font-size: 13px;">Smart Contract Developer @ XSG</span><br/>
             <span style="font-size: 13px;">Blockchain Developer Trainee @ Appworks</span>
@@ -45,6 +45,7 @@
             <span style="font-size: 13px;">Minor Research Title A · Minor Research Title B</span>
         </td>
     </tr>
+</table>
 
 
 
