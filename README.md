@@ -9,7 +9,7 @@
         <td align="center" valign="top" width="400">
             <div>&nbsp;</div>
             <b>🔍 Research</b><br/><br/>
-            <span style="font-size: 13px;">Researcher @ ABClab</span><br>
+            <span style="font-size: 13px;">Research Assistant @ ABClab</span><br>
             <span style="font-size: 13px;">Teaching Assistant @ NTU</span>
             <div>&nbsp;</div>
         </td>
@@ -30,7 +30,6 @@
     </tr>
 </table>
 
-
 <h2 align="left"> 📚 Publications & Research</h2>
 <table width="100%">
     <tr>
@@ -39,6 +38,7 @@
             <a href="https://github.com/shamadrian/Secure-TBA-Design"><b>Design and Analysis of Secured Token Bound Account</b></a><br/><br/>
             <span style="font-size: 13px;">
             <b>Venue:</b> Cryptology and Information Security Conference 2024, Taiwan </br>
+            <b>Year:</b> 2024</br>
             <b>Type:</b> Research Paper</br>
             <b>Description:</b> Discussed the vulnerabilities of the ERC6551 standard, proposed solutions and future works.
             </span>
@@ -49,6 +49,7 @@
             <a href="https://github.com/shamadrian/Flash-Loan-Research"><b>A Comprehensive Analysis of Flash Loan Attacks in Lending Protocol </b></a><br/><br/>
             <span style="font-size: 13px;">
             <b>Venue:</b> National Science and Technology Council, Taiwan </br>
+            <b>Year:</b> 2024</br>
             <b>Type:</b> Research Grant</br>
             <b>Description:</b> Researched on real-world flash Loan attacks, Summarized and classified attack vectors, Discussed the impacts of flash-loan attacks and Suggested counter measures.
             </span>
@@ -92,6 +93,22 @@
             <b>Other projects</b><br/>
             <span style="font-size: 13px;">State Channel for Casino Web App that uses EIP712 for signature and verification @XSG</span> <br/>
             <span style="font-size: 13px;">ERC20 token implementation with vault lock and governing functions @ AiPha</span>
+            <div>&nbsp;</div>
+        </td>
+    </tr>
+</table>
+<h2 align="left"> 📤 Sharing</h2>
+<table width="100%">
+    <tr>
+        <td align="left" valign="top" colspan="2">
+            <div>&nbsp;</div>
+            <span style="font-size: 13px;">
+            <b>Date:</b> 2024-09-20<br/>
+            <b>Title:</b> Common ERC <br/>
+            <b>Venue:</b> NTU course: Introduction to Financial Technology <br/>
+            <b>Link:</b> <a href="https://www.canva.com/design/DAGQg5uWPik/AJLKKSOYFjFjjaa9U1MlyA/edit">Slides</a><br/>
+            <b>Description:</b> Talked about the basics of ERC, including ERC20 (Token Standard), ERC712 (NFT standard), ERC4626 (Vault Standard) and ERC 3156 (Flash loan interface). Also introduced inflation attacks and reentrancy attacks, along with mitigation steps.
+            </span>
             <div>&nbsp;</div>
         </td>
     </tr>
