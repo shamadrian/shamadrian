@@ -30,6 +30,34 @@
     </tr>
 </table>
 
+<h2 align="left"> 🛡️ Audits</h2>
+<table width="100%">
+    <tr>
+        <td align="left" valign="top" width="600">
+            <div>&nbsp;</div>
+            <a href="https://github.com/shamadrian/2025-11-Megapot-Audit"><b>Megapot Audit</b></a><br/><br/>
+            <span style="font-size: 13px;">
+            <b>Date:</b> Nov 2025<br/>
+            <b>Findings:</b> 2 Medium reports<br/>
+            <b>Type:</b> Audit Contest<br/>
+            <b>Site:</b> Code4rena
+            </span>
+            <div>&nbsp;</div>
+        </td>
+        <td align="left" valign="top" width="600">
+            <div>&nbsp;</div>
+            <a href="https://github.com/shamadrian/2025-10-Hybra-Finance-Audit"><b>Hybra Finance Audit</b></a><br/><br/>
+            <span style="font-size: 13px;">
+            <b>Date:</b> Oct 2025<br/>
+            <b>Findings:</b> 1 Medium report<br/>
+            <b>Type:</b> Audit Contest<br/>
+            <b>Site:</b> Code4rena
+            </span>
+            <div>&nbsp;</div>
+        </td>
+    </tr>
+</table>
+
 <h2 align="left"> 📚 Publications & Research</h2>
 <table width="100%">
     <tr>
@@ -97,7 +125,7 @@
         </td>
     </tr>
 </table>
-<h2 align="left"> 📤 Sharing</h2>
+<h2 align="left"> 📤 Sharings</h2>
 <table width="100%">
     <tr>
         <td align="left" valign="top" colspan="2">
