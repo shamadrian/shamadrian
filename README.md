@@ -168,8 +168,8 @@
   <tr>
     <td align="left" valign="top" colspan="3">
         <div>&nbsp;</div>
-        <b>EIPs</b><br/>
-        <code>ERC20</code> <code>ERC712</code> <code>ERC1155</code> <code>EIP1271</code> <code>EIP2771</code> <code>ERC4337</code> <code>ERC6551</code> <br/><code>AND OTHERS</code>
+        <b>Other Tools:</b><br/>
+        <code>Slither</code> <code>Echidna</code> 
         <div>&nbsp;</div>
     </td>
 </tr>
