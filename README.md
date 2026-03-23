@@ -33,28 +33,32 @@
 <h2 align="left"> 🛡️ Audits</h2>
 <table width="100%">
     <tr>
-        <td align="left" valign="top" width="600">
-            <div>&nbsp;</div>
-            <a href="https://github.com/shamadrian/2025-11-Megapot-Audit"><b>Megapot Audit</b></a><br/><br/>
-            <span style="font-size: 13px;">
-            <b>Date:</b> Nov 2025<br/>
-            <b>Findings:</b> 2 Medium reports<br/>
-            <b>Type:</b> Audit Contest<br/>
-            <b>Site:</b> Code4rena
-            </span>
-            <div>&nbsp;</div>
-        </td>
-        <td align="left" valign="top" width="600">
-            <div>&nbsp;</div>
-            <a href="https://github.com/shamadrian/2025-10-Hybra-Finance-Audit"><b>Hybra Finance Audit</b></a><br/><br/>
-            <span style="font-size: 13px;">
-            <b>Date:</b> Oct 2025<br/>
-            <b>Findings:</b> 1 Medium report<br/>
-            <b>Type:</b> Audit Contest<br/>
-            <b>Site:</b> Code4rena
-            </span>
-            <div>&nbsp;</div>
-        </td>
+        <th align="left" width="15%">Date</th>
+        <th align="left" width="35%">Name</th>
+        <th align="left" width="20%">Type</th>
+        <th align="left" width="15%">Site</th>
+        <th align="left" width="15%">Findings</th>
+    </tr>
+    <tr>
+        <td>March 2026</td>
+        <td><a href="https://github.com/shamadrian/2026-03-Intuition-Audit"><b>Intuition Audit</b></a></td>
+        <td>Audit Contest</td>
+        <td>Code4rena</td>
+        <td>1 Medium report</td>
+    </tr>
+    <tr>
+        <td>Nov 2025</td>
+        <td><a href="https://github.com/shamadrian/2025-11-Megapot-Audit"><b>Megapot Audit</b></a></td>
+        <td>Audit Contest</td>
+        <td>Code4rena</td>
+        <td>2 Medium reports</td>
+    </tr>
+    <tr>
+        <td>Oct 2025</td>
+        <td><a href="https://github.com/shamadrian/2025-10-Hybra-Finance-Audit"><b>Hybra Finance Audit</b></a></td>
+        <td>Audit Contest</td>
+        <td>Code4rena</td>
+        <td>1 Medium report</td>
     </tr>
 </table>
 
@@ -178,4 +182,4 @@
 
 ### 📫 Contact
 - Email: <adriansham99@gmail.com>
-- LinkedIn: <link>https://www.linkedin.com/in/chun-ning-adrian-sham-28266528a/
+- LinkedIn: <link>https://www.linkedin.com/in/chun-ning-adrian-sham/
