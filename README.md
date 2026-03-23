@@ -33,11 +33,11 @@
 <h2 align="left"> 🛡️ Audits</h2>
 <table width="100%">
     <tr>
-        <th align="left" width="15%">Date</th>
-        <th align="left" width="35%">Name</th>
-        <th align="left" width="20%">Type</th>
-        <th align="left" width="15%">Site</th>
-        <th align="left" width="15%">Findings</th>
+        <th align="left" width="180">Date</th>
+        <th align="left" width="420">Name</th>
+        <th align="left" width="240">Type</th>
+        <th align="left" width="180">Site</th>
+        <th align="left" width="180">Findings</th>
     </tr>
     <tr>
         <td>March 2026</td>
