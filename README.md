@@ -1,10 +1,10 @@
 <h2 align="left"> <Your Name>Hi! I'm Sham Chun Ning Adrian 👋</h2>
 <img src="https://komarev.com/ghpvc/?username=shamadrian&label=Profile%20views&color=0e75b6&style=flat" />
 <p align="center"><b><Your headline>Welcome to my github page! </b></p>
-<p align="center">I am a passionate Web3 Security Researcher and Blockchain Developer, I spend my days trying to level up myself by playing with solidity and smart contract related fields in playgrounds I design. Please join me on my journey to become the best smart contract auditor/developer! <br/> Research • Develop • Audit • Playground</p>
+<p align="center">I am a passionate Web3 Security Researcher and Blockchain Developer, I spend my days trying to level up myself by playing with solidity and smart contract related fields in <b>playgrounds</b> I design. Please join me on my journey to become the best smart contract auditor/developer! <br/> Research • Develop • Audit • Playground</p>
 
 <p align="center">
-  <img src="./assets/mmorpg-xp-bar.svg" alt="MMORPG-style experience bar showing Level 11 with full green progress" width="900" />
+    <img src="./assets/mmorpg-xp-bar.svg" alt="MMORPG-style experience bar showing Level 5 with full green progress" width="760" />
 </p>
 <i>A full list of playgrounds can be found <a href="https://github.com/shamadrian/Playground-List">here</a></i>
 <h2 align="left"> 🚀 Experiences</h2>
