@@ -1,0 +1,47 @@
+<svg width="1200" height="180" viewBox="0 0 1200 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#232A31"/>
+      <stop offset="100%" stop-color="#0C1014"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F9E7A3"/>
+      <stop offset="50%" stop-color="#D1A84F"/>
+      <stop offset="100%" stop-color="#7A5317"/>
+    </linearGradient>
+    <linearGradient id="xp" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#78FF88"/>
+      <stop offset="50%" stop-color="#2EE66B"/>
+      <stop offset="100%" stop-color="#0FA84A"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="0" y="0" width="1200" height="180" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="18" y="18" width="1164" height="144" rx="22" fill="url(#bg)" stroke="url(#frame)" stroke-width="6"/>
+  <text x="70" y="82" fill="#F7E7B2" font-family="Verdana, Geneva, sans-serif" font-size="30" font-weight="700">LEVEL 05</text>
+  <text x="1115" y="82" text-anchor="end" fill="#F7E7B2" font-family="Verdana, Geneva, sans-serif" font-size="30" font-weight="700">EXPERT</text>
+
+  <rect x="66" y="102" width="1068" height="34" rx="17" fill="#050709" stroke="#3A4650" stroke-width="2"/>
+  <rect x="70" y="106" width="1060" height="26" rx="13" fill="url(#xp)" filter="url(#glow)"/>
+  <rect x="70" y="106" width="1060" height="10" rx="5" fill="url(#shine)"/>
+
+  <g opacity="0.2" stroke="#D7C385" stroke-width="2">
+    <line x1="203" y1="106" x2="203" y2="132"/>
+    <line x1="336" y1="106" x2="336" y2="132"/>
+    <line x1="469" y1="106" x2="469" y2="132"/>
+    <line x1="602" y1="106" x2="602" y2="132"/>
+    <line x1="735" y1="106" x2="735" y2="132"/>
+    <line x1="868" y1="106" x2="868" y2="132"/>
+    <line x1="1001" y1="106" x2="1001" y2="132"/>
+  </g>
+</svg>
