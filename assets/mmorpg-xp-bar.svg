@@ -27,13 +27,14 @@
     </filter>
   </defs>
 
-  <rect x="18" y="18" width="1164" height="120" rx="22" fill="url(#bg)" stroke="url(#frame)" stroke-width="6"/>
-  <text x="70" y="68" fill="#F7E7B2" font-family="Verdana, Geneva, sans-serif" font-size="24" font-weight="700">LEVEL 05</text>
+  <rect x="18" y="18" width="1164" height="140" rx="22" fill="url(#bg)" stroke="url(#frame)" stroke-width="6"/>
+  <text x="70" y="68" fill="#F7E7B2" font-family="Verdana, Geneva, sans-serif" font-size="24" font-weight="700">LEVEL 06/07</text>
   <text x="1115" y="68" text-anchor="end" fill="#F7E7B2" font-family="Verdana, Geneva, sans-serif" font-size="24" font-weight="700">EXPERT</text>
 
   <rect x="66" y="93" width="1068" height="24" rx="12" fill="#050709" stroke="#3A4650" stroke-width="2"/>
-  <rect x="70" y="97" width="1060" height="16" rx="8" fill="url(#xp)" filter="url(#glow)"/>
-  <rect x="70" y="97" width="1060" height="6" rx="3" fill="url(#shine)"/>
+  <rect x="70" y="97" width="106" height="16" rx="8" fill="url(#xp)" filter="url(#glow)"/>
+  <rect x="70" y="97" width="106" height="6" rx="3" fill="url(#shine)"/>
+  <text x="600" y="142" text-anchor="middle" fill="#BFD4A8" font-family="Verdana, Geneva, sans-serif" font-size="14" font-weight="700" letter-spacing="1.2">NEXT OBJECTIVE: UNISWAP-PLAYGROUND</text>
 
   <g opacity="0.2" stroke="#D7C385" stroke-width="2">
     <line x1="203" y1="97" x2="203" y2="113"/>
